@@ -1,0 +1,14 @@
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.AssemblyInfoInputs.cache
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.AssemblyInfo.cs
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.csproj.CoreCompileInputs.cache
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\bin\Debug\net8.0\QuaraticEquation.exe
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\bin\Debug\net8.0\QuaraticEquation.deps.json
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\bin\Debug\net8.0\QuaraticEquation.runtimeconfig.json
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\bin\Debug\net8.0\QuaraticEquation.dll
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\bin\Debug\net8.0\QuaraticEquation.pdb
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.dll
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\refint\QuaraticEquation.dll
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.pdb
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\QuaraticEquation.genruntimeconfig.cache
+D:\PRN212(new)\PRN212-SE1848\QuaraticEquation\obj\Debug\net8.0\ref\QuaraticEquation.dll

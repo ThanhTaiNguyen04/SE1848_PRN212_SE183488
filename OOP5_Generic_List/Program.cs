@@ -1,4 +1,4 @@
-﻿//
+//
 //Sử dụng Generic List để quản lý nhân sự với đầy đủ 
 // Tính năng CRUD
 // C-> Create--> Tạo mới dữ liệu
@@ -98,8 +98,6 @@ else
     Console.WriteLine("Không tìm thấy nhân viên với ID đã nhập.");
 }
 
-
-// Xuất lại danh sách sau khi xóa
 Console.WriteLine("Danh sách nhân viên sau khi xóa:");
 employees.ForEach(e => Console.WriteLine(e));
 
@@ -114,13 +112,10 @@ if (employeeToUpdate != null)
     string newName = Console.ReadLine();
     Console.Write("Nhập ID Card mới: ");
     string newIdCard = Console.ReadLine();
-    Console.Write("Nhập ID Card mới: ");
-    string newBirthdate = Console.ReadLine();
 
 
     employeeToUpdate.Name = newName;
     employeeToUpdate.IdCard = newIdCard;
-    employeeToUpdate.IdCard = newBirthdate;
 
     Console.WriteLine("Cập nhật thông tin thành công.");
 }
@@ -129,6 +124,5 @@ else
     Console.WriteLine("Không tìm thấy nhân viên với ID đã nhập.");
 }
 
-// Xuất lại danh sách sau khi cập nhật
 Console.WriteLine("Danh sách nhân viên sau khi cập nhật:");
 employees.ForEach(e => Console.WriteLine(e));
